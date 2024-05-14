@@ -1,7 +1,7 @@
 <h2 align="left" >Hi There 👋! I am in the journey to learn about web development . This is my github, here you will find the projects i made and the programming languages i studied, check out!</h2>
 
 ## I current code with:
-<div align="left" padding="2rem">
+<div align="left" gap="2em">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwindcss logo"/>
